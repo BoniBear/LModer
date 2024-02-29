@@ -1,0 +1,12 @@
+name: LlModer
+version: '${project.version}'
+main: me.boni.moder.llmoder.LlModer
+authors: [Boni_bear]
+
+description: Addon for Lucky Perms
+
+commands:
+  moder:
+    description: Выводит в чат список доступных комманд
+    aliases:
+      - m
